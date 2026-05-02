@@ -1,0 +1,31 @@
+# Backend
+backend/__pycache__/
+backend/venv/
+backend/.venv/
+*.pyc
+*.pyo
+.env
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/.env.local
+frontend/build/
+frontend/.vercel/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.egg-info/
+dist/
+build/
+

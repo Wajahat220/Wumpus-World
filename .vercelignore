@@ -1,0 +1,13 @@
+backend/
+README.md
+vercel.json
+.gitignore
+Procfile
+requirements.txt
+.railwayignore
+*.md
+*.pyc
+__pycache__/
+venv/
+.venv/
+

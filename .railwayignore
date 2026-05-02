@@ -1,0 +1,7 @@
+frontend/
+README.md
+vercel.json
+.gitignore
+.DS_Store
+*.md
+
