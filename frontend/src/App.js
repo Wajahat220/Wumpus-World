@@ -281,6 +281,7 @@ title={getCellTooltip(row, col)}
 </div>
 
 <div className="controls">
+
 <div className="direction-controls">
 <button onClick={() => moveAgent('up')} disabled={loading || !gameState.agent_alive}>
 ↑
@@ -297,6 +298,7 @@ title={getCellTooltip(row, col)}
 ↓
 </button>
 </div>
+
 <button
 onClick={autoMove}
 disabled={loading || !gameState.agent_alive}
